@@ -15,7 +15,7 @@ body {
 h1 {
     font-size: 5vw; /* Responsive font size */
     color: #4ECDC4; /* Muted Teal */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
     margin-bottom: 20px; /* Space below the heading */
     transition: color 0.3s ease;
 }
